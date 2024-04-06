@@ -1,1 +1,3 @@
-# ResNet-50-VGG16
+- Using MNIST, CFAR-10 datasets
+- Implement ResNet 50, VGG16
+- Pretrained ResNet 50, VGG16
